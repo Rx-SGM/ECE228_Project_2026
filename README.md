@@ -50,7 +50,8 @@ At inference time, an unknown query spectrogram is either **accepted** as a regi
 
 ## Dataset
 
-We use the **[WiStride](https://ieee-dataport.org/documents/wistride-csi-based-gait-dataset-indoor-walking-subjects)** dataset 
+We use the **[WiStride](https://ieee-dataport.org/documents/wistride-csi-based-gait-dataset-indoor-walking-subjects)** dataset collected from P = 25 participants walking in an indoor corridor. Each participant’s session yields a raw CSI packet stream and a corresponding
+activity label file. 
 
 ---
 
