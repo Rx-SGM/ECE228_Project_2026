@@ -1,6 +1,6 @@
 # Device-Free WiFi-Based Biometric Authentication with Neural Networks
 
-> Passive, device-free gait authentication using WiFi Channel State Information (CSI) Doppler spectrograms and a metric-learning CNN — no wearables, no network modifications required.
+> Passive, device-free gait authentication using WiFi Channel State Information (CSI) Doppler spectrograms and a metric-learning CNN
 
 **ECE 228: Machine Learning for Physical Applications | Spring 2026 | UC San Diego**
 **Authors:** Soham Guha Mazumder · Afreen Haider
