@@ -9,7 +9,6 @@
 
 ## Table of Contents
 - [Overview](#overview)
-- [How It Works](#how-it-works)
 - [Repository Structure](#repository-structure)
 - [Dataset](#dataset)
 - [Running the Code](#running-the-code)
