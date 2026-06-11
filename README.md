@@ -57,8 +57,6 @@ activity label file.
 
 ## Running the Code
 
-Both notebooks are designed to run on **Google Colab** with GPU acceleration. No local installation is required beyond uploading the files to Google Drive.
-
 ### Step 1 — Preprocessing
 
 Execute `preprocessing_CSI_data.ipynb`. This reads the raw WiStride CSVs and writes `spectrograms1.npz` to the system.
