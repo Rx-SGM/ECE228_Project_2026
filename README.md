@@ -89,7 +89,7 @@ The trained model is saved to `models/gait_net_v3.pth`.
 | Training embedding separation (Δ) | **1.339** | — |
 | Test separation (intruder − auth) | **+0.004** | — |
 
-The resulting plots can be seen in `plots`
+The resulting plots can be seen in `all_plots.zip`
 
 
 ## Dependencies
